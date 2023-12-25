@@ -1,3 +1,9 @@
+CMakeFiles/
+CMakeCache.txt
+example-app
+Makefile
+cmake_install.cmake
+
 # Prerequisites
 *.d
 
