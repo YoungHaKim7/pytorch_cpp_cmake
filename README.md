@@ -23,3 +23,8 @@ $ ./example-app
 [ Variable[CPUFloatType]{2,3} ]
 
 ```
+
+# 참고
+
+- Getting Started With PyTorch (C++)
+  - https://youtube.com/playlist?list=PLZAGo22la5t4UWx37MQDpXPFX3rTOGO3k&si=0Iy-T7ZeeDP5ZlKb
